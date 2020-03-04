@@ -1,0 +1,45 @@
+﻿0481	由克希 已消失
+0479	艾姆利多(心齐湖) 已消失
+0480	亚克诺姆 已消失
+0208	帝牙卢卡 已捕获
+0209	帕路奇亚 已捕获
+0591	席多蓝恩 已消失
+0476	冥王 (严酷山) 已消失
+0293	席多蓝恩 可对战
+0288	席多蓝恩 已消失
+0579	雷吉奇卡斯 已消失
+0306	初始之间 (枪之柱) 已消失
+0461	竹兰 (枪之柱) 已消失
+0672	竹兰 (送泉) 已消失
+0592	骑拉帝纳 已消失
+0344	达克莱伊 已消失
+0301	大木博士 (224号道路) #1 已消失
+0594	大木博士 (224号道路) #2 已消失
+0714	米依 (224号道路) 已消失
+0604	分海之路出现了
+0291	谢米 (花之乐园) 已消失
+0286	阿尔宙斯 已消失
+0307	满月岛渡轮可使用
+0316	新月岛渡轮可使用
+0578	大木博士 (百代市) 已消失
+0281	三圣鸟游走中 (1)
+0153	三圣鸟游走中 (2)
+2404	已进入名人堂 (训练家卡片升级)
+2408	帅气华丽大赛大师
+2409	美丽华丽大赛大师
+2410	可爱华丽大赛大师
+2411	聪明华丽大赛大师
+2412	强壮华丽大赛大师
+0329	Rotom Caught
+0635	Encountered Ghost Butler in Old Chateau
+0636	Encountered Ghost Girl in Old Chateau
+0897	Found Honey (hidden) in Old Chateau
+1036	Found Old Gateau in Old Chateau
+1261	Found Dread Plate in Old Chateau
+1262	Found TM90 in Old Chateau
+1281	Found Rare Candy in Old Chateau
+1282	Found Big Pearl in Old Chateau
+1337	Found Metal Coat in Iron Ruins
+1338	Found Never-Melt Ice in Iceberg Ruins
+1339	Found Hard Stone in Rock Peak Ruins
+2736	Rotom disappeared in Old Chateau TV
