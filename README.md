@@ -21,4 +21,4 @@ PKHeX.core code is taken from [PKHeX](https://github.com/kwsch/PKHeX), which is 
 
 ### IDE
 
-PKHeX can be opened with IDEs such as [Visual Studio](https://visualstudio.microsoft.com/downloads/) by opening the .sln or .csproj file.
+PK8toPK7 can be opened with IDEs such as [Visual Studio](https://visualstudio.microsoft.com/downloads/) by opening the .sln or .csproj file.
