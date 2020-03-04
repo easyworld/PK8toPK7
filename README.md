@@ -9,7 +9,7 @@ Usage for windows user:
 * Or you can use command line to use it like PK8toPK7.exe test.pk8
 
 
-** No file check here, please input the correct file to it
+**No file check here, please input the correct file to it**
 
 ### Build Configurations
 
