@@ -8,6 +8,8 @@ Usage for windows user:
 * Drag your PK8 file to the executable file, PK7 file will be generated in the same folder
 * Or you can use command line to use it like PK8toPK7.exe test.pk8
 
+Usage for batch:
+* Put Pk8toPk7.exe and PK7 files in the same folder and run this command `for /r %i in (*.pk8) do @pk8topk7.exe "%i"`
 
 **No file check here, please input the correct file to it**
 
